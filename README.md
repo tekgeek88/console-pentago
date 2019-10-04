@@ -27,7 +27,7 @@ the program resides. Then install any required dependencies.
 
 ## Navigating the program
 
-### Starting a game of Pentago:
+### Starting a game of Pentago
 
 #### Enter your players info on one one line separated by a space
 
