@@ -1,0 +1,403 @@
+
+Welcome to console Pentago!
+
+To play please enter your players info on one line separated by a space:
+
+	Players name: "First" or "Last"
+	Players color: "B" or "W"
+	Players type: "AI" or "Human"
+
+Ex: Carl W Human
+
+type "quit' at anytimr to quit the game and return to the command line
+Player 1:
+>Carl W Human
+Player 2:
+>UW-Bot b ai
+Carl HUMAN was randomly selected to go first
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+> 1/6
+Failure parsing move please retry!
+> 1/6 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| . . . | . . . |
+| . . W | . . . |
+| . . . | . . . |
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+UW-Bot is thinking...
+Number Expanded: 470
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| . W B | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+> 1/8 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| . W B | . . . |
+| . . . | . . . |
+| . W . | . . . |
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+UW-Bot is thinking...
+Number Expanded: 992
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| B . . | . . . |
+| W B W | . . . |
+| . . . | . . . |
++-------+-------+
+| . . . | . . . |
+| . . . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+> 3/5 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| B . . | . . . |
+| W B W | . . . |
+| . . . | . . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+UW-Bot is thinking...
+Number Expanded: 1590
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| . W B | . . . |
+| . B . | . . . |
+| B W . | . . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . . . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+> 4/5 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| . W B | . . . |
+| . B . | . . . |
+| B W . | . . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . W . |
+| . . . | . . . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+UW-Bot is thinking...
+Number Expanded: 348
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| B . . | . . . |
+| W B W | . . . |
+| . . B | . . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . W . |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+> 2/5 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| B . . | . . . |
+| W B W | . W . |
+| . . B | . . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . W . |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+UW-Bot is thinking...
+Number Expanded: 795
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| B . . | . . . |
+| W B W | . W . |
+| . . B | B . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . W . |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+> 4/4 4l
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| B . . | . . . |
+| W B W | . W . |
+| . . B | B . . |
++-------+-------+
+| . . . | . . . |
+| . W . | . W B |
+| . . . | . W . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+4/4, 4L, Carl   - 00:15.88
+UW-Bot is thinking...
+Number Expanded: 687
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| B . . | . . . |
+| W B W | . W . |
+| . . B | B . B |
++-------+-------+
+| . . . | . . . |
+| . W . | . W B |
+| . . . | . W . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+4/4, 4L, Carl   - 00:15.88
+2/1, 2L, UW-Bot - 00:09.55
+> 3/6 4r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 2
++-------+-------+
+| B . . | . . . |
+| W B W | . W . |
+| . . B | B . B |
++-------+-------+
+| . . . | . . . |
+| . W W | W W . |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+4/4, 4L, Carl   - 00:15.88
+2/1, 2L, UW-Bot - 00:09.55
+3/6, 4R, Carl   - 00:19.72
+UW-Bot is thinking...
+Number Expanded: 308
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| . W B | . . . |
+| . B . | . W . |
+| B W . | B . B |
++-------+-------+
+| . . . | . . . |
+| . W W | W W B |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+4/4, 4L, Carl   - 00:15.88
+2/1, 2L, UW-Bot - 00:09.55
+3/6, 4R, Carl   - 00:19.72
+4/6, 1L, UW-Bot - 00:02.93
+> 3/4 2r
+
+Player 01: Carl HUMAN
+Player 02: UW-Bot AI
+Player 01: W
+Player 02: B
+Player to move next: 1
++-------+-------+
+| . W B | . . . |
+| . B . | . W . |
+| B W . | B . B |
++-------+-------+
+| . . . | . . . |
+| W W W | W W B |
+| . . . | . B . |
++-------+-------+
+1/6, 2R, Carl   - 00:10.96
+1/9, 1L, UW-Bot - 00:12.15
+1/8, 2R, Carl   - 00:15.33
+1/5, 1L, UW-Bot - 00:14.04
+3/5, 2R, Carl   - 00:12.49
+1/9, 1L, UW-Bot - 00:48.94
+4/5, 2R, Carl   - 00:21.17
+4/8, 1L, UW-Bot - 00:04.09
+2/5, 2R, Carl   - 00:14.08
+2/1, 2L, UW-Bot - 00:12.52
+4/4, 4L, Carl   - 00:15.88
+2/1, 2L, UW-Bot - 00:09.55
+3/6, 4R, Carl   - 00:19.72
+4/6, 1L, UW-Bot - 00:02.93
+3/4, 2R, Carl   - 00:23.32
+Player 1: Carl HUMAN: has won!
+Total Game time: 03:57.18

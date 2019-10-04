@@ -1,0 +1,31 @@
+Instructions:
+
+Starting a game of Pentago:
+
+    - Run "main.py"
+    - Enter your players info on one line separated by a space.
+    - i.e. "name", "color", and "type of player"
+
+    Example:
+    >  Carl W Human
+    >  BotMan B AI
+
+    - Player one is selected randomly to go first.
+    
+Game Play:
+    - Entering moves:
+      Enter moves using the following format
+      "Block Number"/"Block index" "block""Rotation direction"
+
+        i.e. 2/1 2R
+        This would place a marble on the second block and in the first of 9 positions on the block.
+        The second argument is the block number and direction of rotation.
+
+        - Directions of rotation are 'r', 'R', 'l', or 'L' for right and left rortatation
+
+Modifying AI search parameters:
+    - Search depth can be modified by changing the global SEARCH_DEPTH variable on line 16 of pentago.py
+    - Search method can be modified by changing the SEARCH_METHOD variable on line 18 of pentago.py
+    - i.s. "AlphaBeta" or "MiniMax"
+
+    
