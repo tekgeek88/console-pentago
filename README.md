@@ -33,7 +33,7 @@ the program resides. Then install any required dependencies.
 
 **i.e. "name", "color", and "type of player"**
 
-### Example:
+### Example
 
 `>  Carl W Human`
 
@@ -54,7 +54,7 @@ the program resides. Then install any required dependencies.
 
   - Directions of rotation are 'r', 'R', 'l', or 'L' for right and left rotatation
 
-### Modifying AI search parameters:
+### Modifying AI search parameters
   
 - Search depth can be modified by changing the global **SEARCH_DEPTH** variable on line 16 of pentago.py
 
@@ -64,7 +64,7 @@ the program resides. Then install any required dependencies.
 
 ## Licensing
 
-Copyright 2016 Carl Argabright
+Copyright 2019 Carl Argabright
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
